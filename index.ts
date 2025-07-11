@@ -20,7 +20,7 @@ const settings = definePluginSettings({
 export default definePlugin({
   name: "ReEmbed",
   description: "Converts unsupported embeds to supported embeds and supports differents types of Twitter/X mirrors.",
-  authors: [{ name: "The Cat", id: 0 }],
+  authors: [{ name: "The Cat", id: 502494485993881613 }],
   settings,
 
   onBeforeMessageSend(_, msg) {
